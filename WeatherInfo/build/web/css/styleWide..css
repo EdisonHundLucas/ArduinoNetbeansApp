@@ -1,0 +1,29 @@
+/* 
+    Document   : style-wide.
+    Created on : May 14, 2015, 10:00:40 PM
+    Author     : edison
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+/*
+	Twenty 1.0 by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+*/
+
+/* Basic */
+
+body, input, select, textarea {
+    font-size: 14pt;
+}
+
+header.special {
+    padding-top: 5.5em;
+    margin-bottom: 4em;
+}
+
